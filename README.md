@@ -22,7 +22,7 @@ TokenizeArt/
 ## Features
 
 - **Name**: Onyx42  
-- **Symbol**: ONX42  
+- **Symbol**: ONX  
 - **Standard**: ERC-721  
 - **Network**: Ethereum Sepolia Testnet  
 - **Metadata Storage**: IPFS via Pinata  
