@@ -8,7 +8,7 @@ Onyx42 is a non-fungible token (NFT) created as part of the 42 School **Tokenize
 ```
 TokenizeArt/
 ├── code/
-│ └── ONYX42NFT.sol
+│ └── Onyx42NFT.sol
 ├── deployment/
 │ └── deployment.md
 ├── mint/
